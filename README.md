@@ -103,5 +103,4 @@ GreenSock's standard "no charge" license can be viewed at <a href="https://gsap.
 
 Copyright (c) 2008-2023, GreenSock. All rights reserved.
 
-#
- some feature added in readme file 
+# some feature added in readme file 
